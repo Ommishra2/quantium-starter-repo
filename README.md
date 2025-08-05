@@ -1,2 +1,3 @@
 # Quantium starter repo
-This repo contains everything you need to get started on the program! Good luck!
+This repo is my learning from quantium software engineering job simulation program offered by forage. Hope it will be helpful for other as well
+
